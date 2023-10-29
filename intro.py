@@ -1,5 +1,5 @@
-from tkinter import *
+import tkinter as tk
+import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
-import ttkbootstrap as tb 
 
-root = tb.Window(the)
+root = tb.Window(themename)
